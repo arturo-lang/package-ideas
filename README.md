@@ -1,4 +1,4 @@
-# Arturo Package Lab
+# 🧪 Arturo Package Lab
 
 Or... package ideas for **[Arturo](https://github.com/arturo-lang/arturo)**
 
