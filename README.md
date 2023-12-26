@@ -2,7 +2,9 @@
 
 Package ideas for **[Arturo](https://github.com/arturo-lang/arturo)**
 
-This isn't a real repo, properly-speaking, more like a collection of ideas that could become Arturo packages (although not implemented yet!). If you want to add one, just edit this file 😉
+This isn't a real repo, properly-speaking, more like a collection of ideas that could become Arturo packages (although not implemented yet!). 
+
+> 💡 If you want to add one, just edit this file 😉
 
 --------------
 
