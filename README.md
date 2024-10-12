@@ -16,3 +16,4 @@ This isn't a real repo, properly-speaking, more like a collection of ideas that 
 - [ ] A context-free grammar parser, like [this python package](https://lark-parser.readthedocs.io/en/latest/)
 - [ ] Completion package. Given a string of partial arturo code it should provide available completions.
 - [ ] A [Bibtex](https://www.bibtex.org/Format/) parser/writer.
+- [ ] Animation package similar to the python library [📽️ Manim](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
