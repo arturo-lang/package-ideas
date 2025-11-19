@@ -18,3 +18,4 @@ This isn't a real repo, properly-speaking, more like a collection of ideas that 
 - [ ] A [Bibtex](https://www.bibtex.org/Format/) parser/writer.
 - [ ] Animation package similar to the python library [📽️ Manim](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
 - [ ] Crossplatform process and system utilities similar to [psutil](https://pypi.org/project/psutil/)
+- [ ] A [gRPC](https://grpc.io/docs/what-is-grpc/introduction/) interface.
